@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="your-profile-image-url" alt="Kumar Gaurav" width="200" height="200">
+    <img src="https://github.com/DrMessLord/Images/blob/main/GT%23.png?raw=true" alt="Kumar Gaurav" width="200" height="200">
 </div>
 
 # Hi, I'm Kumar Gaurav! 👋
